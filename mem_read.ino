@@ -20,7 +20,7 @@
   
   The module is compatible with EM Microelectronic EM4x50 1kbit R/W 125kHz tags.
   These tags can be used in a number of ways:
-  1) Read/write up to 116 bytes of user data (publicly accessible)
+  1) Read up to 116 bytes of user data (publicly accessible)
   
   Please refer to the product manual for full details of module functionality 
   and capabilities.
