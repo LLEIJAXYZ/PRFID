@@ -7,3 +7,4 @@ LINKS:
 Parallax https://www.parallax.com/
 Joe Grand: www.grandideastudio.com
 Lucas Leija: www.lleija.xyz popbag4@gmail.com
+Originally retrieved from https://www.parallax.com/downloads/rfid-readwrite-module-arduino-code-example
